@@ -1,0 +1,14 @@
+.progress {
+    display: block;
+    background-color: rgba(0, 0, 0, .15);
+    height: 8px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+.progressDone {
+    display: block;
+    background: linear-gradient(to right, #5433ff, #20bdff);
+    height: 8px;
+    border-radius: 10px;
+}

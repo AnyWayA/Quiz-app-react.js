@@ -1,0 +1,18 @@
+.title {
+    margin-bottom: 20px;
+}
+
+.option {
+    border: 1px solid rgba(67, 40, 168, 0.5);
+    background-color: transparent;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background .3s;
+}
+
+.option:hover {
+    background-color: rgba(67, 40, 168, 0.3);
+}
